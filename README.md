@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="<iframe src="https://gifer.com/embed/Fpry" width=480 height=456.943 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>"  />
+<img align="right" height="150" src="<iframe src="https://gifer.com/embed/Fpry" width=480 height=456.943 frameBorder="0" allowFullScreen> />
 
 ###
 
